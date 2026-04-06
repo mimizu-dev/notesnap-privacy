@@ -1,3 +1,3 @@
 # notesnap-privacy
 
-- This is a privacy policy page for notesanp extention.
+- This repo hosts a privacy policy page for notesanp extention.
